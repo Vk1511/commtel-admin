@@ -1,0 +1,9 @@
+Flask==2.2.3
+psycopg2-binary
+Flask-Cors==3.0.10
+pytz==2023.3
+black==23.3.0   
+python-dotenv==1.0.0
+requests==2.31.0
+Werkzeug==2.2.2
+python-keycloak==3.3.0
